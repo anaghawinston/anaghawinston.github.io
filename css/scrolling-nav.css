@@ -11,10 +11,10 @@ section {
   padding: 150px 0;
 }
 
-/* .masthead {
-    background: url('../assets/banner.jpg') no-repeat center fixed;
+ .masthead {
+    background: url('../assets/banner_final.png') no-repeat center fixed;
     background-size: cover;
-} */
+} 
 
 #box{
     height: 400px;

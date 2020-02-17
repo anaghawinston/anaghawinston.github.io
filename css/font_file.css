@@ -1,0 +1,41 @@
+@font-face {
+  font-family: 'kollektif';
+  src: url('kollektif/kollektif.ttf'); 
+
+}
+
+@font-face {
+  font-family: 'kollektif-Bold';
+  src: url('kollektif/kollektif-Bold.ttf');
+  font-weight: bold;
+ 
+}
+
+@font-face {
+  font-family: 'kollektif-Italic';
+  src: url('kollektif/kollektif-Italic.ttf');
+  font-style: italic; 
+ 
+}
+
+@font-face {
+  font-family: 'kollektif-BoldItalic';
+  src: url('kollektif/kollektif-BoldItalic.ttf');
+  font-weight: bold;
+  font-style: italic; 
+ 
+}
+
+html {
+	font-family: 'kollektif', Fallback, sans-serif;
+}
+
+body {
+	font-family: 'kollektif', Fallback, sans-serif;
+}
+
+b,
+strong {
+	font-family: 'kollektif-Bold'
+	font-weight: bolder;
+}
