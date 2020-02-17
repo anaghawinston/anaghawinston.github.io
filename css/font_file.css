@@ -1,26 +1,26 @@
 @font-face {
   font-family: 'kollektif';
-  src: url('kollektif.ttf');
+  src: url('kollektif.woff');
 
 }
 
 @font-face {
   font-family: 'kollektif-Bold';
-  src: url('kollektif-Bold.ttf');
+  src: url('kollektif-Bold.woff');
   font-weight: bold;
 
 }
 
 @font-face {
   font-family: 'kollektif-Italic';
-  src: url('kollektif-Italic.ttf');
+  src: url('kollektif-Italic.woff');
   font-style: italic;
 
 }
 
 @font-face {
   font-family: 'kollektif-BoldItalic';
-  src: url('kollektif-BoldItalic.ttf');
+  src: url('kollektif-BoldItalic.woff');
   font-weight: bold;
   font-style: italic;
 
