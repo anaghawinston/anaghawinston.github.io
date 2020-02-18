@@ -1,18 +1,18 @@
 @font-face {
-  font-family: 'kollektif';
+  font-family: 'Kollektif';
   src: url('Kollektif.woff');
 
 }
 
 @font-face {
-  font-family: 'kollektif-Bold';
+  font-family: 'Kollektif-Bold';
   src: url('Kollektif-Bold.woff');
   font-weight: bold;
 
 }
 
 @font-face {
-  font-family: 'kollektif-Italic';
+  font-family: 'Kollektif-Italic';
   src: url('Kollektif-Italic.woff');
   font-style: italic;
 
